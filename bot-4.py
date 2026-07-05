@@ -1,5 +1,5 @@
 """
-AFFIRMATIVE GROUP HOLDINGS - Telegram Bot
+AFFIRMATIVE CRAFT PACKAGING - Telegram Bot
 Services: Packaging | Printing | Advertisement | Exchange
 
 SETUP:
@@ -29,9 +29,9 @@ ADMIN_CHAT_ID = int(os.environ.get("ADMIN_CHAT_ID", "0"))
 
 BANK_DETAILS = (
     "🏦 *Payment Details*\n\n"
-    "Bank: [Your Bank Name]\n"
-    "Account Name: Affirmative Group Holdings\n"
-    "Account Number: [Your Account Number]\n\n"
+    "Bank: [United bank of Africa]\n"
+    "Account Name: young yuyu ukhuegbe \n"
+    "Account Number: [2136061133]\n\n"
     "Send your payment, then upload a screenshot here to confirm."
 )
 
@@ -40,8 +40,8 @@ BANK_DETAILS = (
 WELCOME_IMAGE = "affirmative_banner.jpg"
 
 WELCOME_TEXT = (
-    "✨ *Welcome to Affirmative Group Holdings* ✨\n\n"
-    "_Your Packaging. Your Brand. Our Craft._\n\n"
+    "✨ *Welcome to Affirmative Craft Packaging* ✨\n\n"
+    "_Print it. Brand it. Flaunt it._\n\n"
     "From premium packaging and print production, to outdoor advertising "
     "and secure currency exchange — we bring your business to life across "
     "every channel.\n\n"
@@ -60,7 +60,7 @@ CATALOG_CATEGORIES = {
             {
                 "id": "pb1",
                 "name": "X-Large Paper Bag (A2 Landscape)",
-                "price": 675,
+                "price": 680,
                 "moq": 100,
                 "image": "https://inklets.com.ng/wp-content/uploads/2024/09/x-large-paper-bag.jpg",
                 "note": "Full colour branding, rope handles (placeholder est.)",
