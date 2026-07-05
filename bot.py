@@ -1,5 +1,5 @@
 """
-AFFIRMATIVE GROUP HOLDINGS - Telegram Bot
+AC PACKAGING AND ADVERTISEMENT COMPANY- Telegram Bot
 Services: Packaging | Printing | Advertisement | Exchange
 
 WHAT'S NEW IN THIS VERSION:
